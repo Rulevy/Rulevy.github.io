@@ -1,0 +1,336 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#pressout {
+    width: 1200px;
+    height: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#WEST {
+    width: 900px;
+    height: 510px;
+    margin-top: 220px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#descr {
+    width: 386px;
+    height: 38px;
+    margin-left: auto;
+    margin-top: 27px;
+    font-family: 'Major Mono Display', sans-serif;
+    font-size: 19px;
+    font-style: oblique;
+    margin-right: auto;
+}
+#biig {
+    width: 850px;
+    height: 452px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+#descr2 {
+    width: 386px;
+    height: 38px;
+    margin-left: auto;
+    margin-top: 2px;
+    font-family: 'Major Mono Display', sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    margin-right: auto;
+}
+#back {
+    width: 170px;
+    height: 38px;
+    font-family: 'Major Mono Display', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    margin-right: auto;
+    margin-left: -171px;
+    margin-top: -579px;
+}
+#size {
+    width: 386px;
+    height: 38px;
+    margin-left: auto;
+    font-family: 'Major Mono Display', sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    margin-right: auto;
+}
+#stillbbbig {
+    width: 450px;
+    height: 589px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+#kitch {
+    width: 450px;
+    height: 595px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+#irvbig {
+    width: 450px;
+    height: 623px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+#holdtext {
+    width: 300px;
+    height: 100px;
+    margin-right: auto;
+    margin-left: auto;
+}
+#hold {
+	 width: 300px;
+    height: 100px;
+    margin-right: auto;
+}
+#texhold {
+	width: 300px;
+    height: 100px;
+    margin-right: auto;
+}
+#holdte {
+		width: 300px;
+    height: 100px;
+    margin-right: auto;
+}
+#space {
+    height: 35px;
+}
+#juni {
+    width: 456px;
+    height: 566px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+#edha {
+	   width: 500px;
+    height: 597px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+#ny {
+    width: 830px;
+    height: 607px;
+    margin-left: 204px;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+#aut {
+    width: 880px;
+    height: 667px;
+    margin-left: 204px;
+    margin-right: auto;
+    margin-top: 50px;
+}
+#title {
+	width: 386px;
+   width: 386px;
+    height: 38px;
+    margin-left: auto;
+    margin-top: 27px;
+    font-family: 'Major Mono Display', sans-serif;
+    font-size: 19px;
+    font-style: oblique;
+    margin-right: auto;
+}
+#nycwe {
+    width: 386px;
+    width: 419px;
+    height: 38px;
+    margin-left: auto;
+    margin-top: 27px;
+    font-family: 'Major Mono Display', sans-serif;
+    font-size: 19px;
+    font-style: oblique;
+    margin-right: auto;
+}
+#lion {
+    width: 500px;
+    height: 667px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    webkit-box-shadow: 0px -1px 84px 4px rgba(237,237,237,0.74);
+    moz-box-shadow: 0px -1px 84px 4px rgba(237,237,237,0.74);
+    box-shadow: 0px -1px 84px 4px rgba(237,237,237,0.74);
+}
+#menu {
+    width: 700px;
+    height: 612px;
+    margin-right: auto;
+    margin-top: 50px;
+    webkit-box-shadow: 0px -1px 84px 4px rgba(237,237,237,0.74);
+    moz-box-shadow: 0px -1px 84px 4px rgba(237,237,237,0.74);
+    box-shadow: 0px -1px 84px 4px rgba(237,237,237,0.74);
+    margin-left: 215px;
+}
+#mene {
+    width: 476px;
+    height: 567px;
+    margin-right: auto;
+    margin-top: 50px;
+    webkit-box-shadow: 0px -1px 84px 4px rgba(237,237,237,0.74);
+    moz-box-shadow: 0px -1px 84px 4px rgba(237,237,237,0.74);
+    box-shadow: 0px -1px 84px 4px rgba(237,237,237,0.74);
+    margin-left: 201px;
+}
+#MENU {
+	 width: 898px;
+    height: 582px;
+    margin-right: auto;
+    margin-top: 50px;
+    webkit-box-shadow: 0px -1px 84px 4px rgba(237,237,237,0.74);
+    moz-box-shadow: 0px -1px 84px 4px rgba(237,237,237,0.74);
+    box-shadow: 0px -1px 84px 4px rgba(237,237,237,0.74);
+    margin-left: 201px;
+}
+#scree {
+	  width: 170px;
+    height: 38px;
+    font-family: 'Major Mono Display', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    margin-right: auto;
+    margin-left: -171px;
+    margin-top: -579px;
+}
+#holdloo {
+    margin-right: auto;
+    width: 307px;
+    height: 313px;
+    margin-top: 101px;
+    margin-left: auto;
+}
+#vidtext {
+	 margin-right: auto;
+    width: 561px;
+    height: 313px;
+    margin-left: 199px;
+}
+#vidback {
+    width: 170px;
+    height: 38px;
+    font-family: 'Major Mono Display', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    margin-right: auto;
+    margin-left: -170px;
+    margin-top: -612px;
+}
+@media (min-width: 0px) and (max-width: 768px){
+}
+
+@media (min-width: 769px) and (max-width: 1200px){
+}
+#backwind {
+    width: 170px;
+    height: 38px;
+    font-family: 'Major Mono Display', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    margin-right: auto;
+    margin-left: -164px;
+    margin-top: -448px;
+    color: #A3A3D6;
+}
+#bree {
+    width: 625px;
+    height: 344px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 134px;
+}
+#dotz{
+	width: 950px;
+    height: 567px;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-left: 201px;
+}
+#holdingtong{
+	width: 625px;
+    height: 325px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 134px;
+}
+#holdliontext {
+    width: 196px;
+    height: 100px;
+    margin-right: auto;
+    margin-left: auto;
+}
+#holdliontext {
+    width: 196px;
+    height: 100px;
+    margin-right: auto;
+    margin-left: auto;
+}
+#irvback {
+    width: 170px;
+    height: 38px;
+    font-family: 'Major Mono Display', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    margin-right: auto;
+    margin-left: -171px;
+    margin-top: -724px;
+}
+#lionback {
+    width: 170px;
+    height: 38px;
+    font-family: 'Major Mono Display', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    margin-right: auto;
+    margin-left: -171px;
+    margin-top: -724px;
+}
+#chicback {
+    width: 170px;
+    height: 38px;
+    font-family: 'Major Mono Display', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    margin-right: auto;
+    margin-left: -171px;
+    margin-top: -682px;
+}
+#tapback {
+    width: 170px;
+    height: 38px;
+    font-family: 'Major Mono Display', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    margin-right: auto;
+    margin-left: -171px;
+    margin-top: -541px;
+}
+#stillback {
+    width: 170px;
+    height: 38px;
+    font-family: 'Major Mono Display', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    margin-right: auto;
+    margin-left: -277px;
+    margin-top: -666px;
+}
+#holdedtext {
+    width: 196px;
+    height: 100px;
+    margin-right: auto;
+    margin-left: auto;
+}
