@@ -3134,12 +3134,15 @@ tbody.collapse.show {
 
 .dropup,
 .dropdown {
-  position: relative;
+    position: relative;
+    width: 100px;
+    margin-left: 23.7%;
+    margin-top: -1px;
 }
 
 .dropdown-toggle::after {
   display: inline-block;
-  width: 0;
+  width: 140;
   height: 0;
   margin-left: 0.255em;
   vertical-align: 0.255em;
@@ -3181,7 +3184,7 @@ tbody.collapse.show {
 
 .dropup .dropdown-toggle::after {
   display: inline-block;
-  width: 0;
+  width: 140;
   height: 0;
   margin-left: 0.255em;
   vertical-align: 0.255em;
@@ -3203,7 +3206,7 @@ tbody.collapse.show {
 
 .dropright .dropdown-toggle::after {
   display: inline-block;
-  width: 0;
+  width: 140;
   height: 0;
   margin-left: 0.255em;
   vertical-align: 0.255em;
@@ -3228,7 +3231,7 @@ tbody.collapse.show {
 
 .dropleft .dropdown-toggle::after {
   display: inline-block;
-  width: 0;
+  width: 140;
   height: 0;
   margin-left: 0.255em;
   vertical-align: 0.255em;
@@ -3268,7 +3271,7 @@ tbody.collapse.show {
 
 .dropdown-item {
   display: block;
-  width: 100%;
+  width: 140px;
   padding: 0.25rem 1.5rem;
   clear: both;
   font-weight: 400;
@@ -3283,12 +3286,14 @@ tbody.collapse.show {
   color: #16181b;
   text-decoration: none;
   background-color: #f8f9fa;
+	width: 140px;
 }
 
 .dropdown-item.active, .dropdown-item:active {
   color: #fff;
   text-decoration: none;
   background-color: #007bff;
+	width: 140px;
 }
 
 .dropdown-item.disabled, .dropdown-item:disabled {
@@ -4094,6 +4099,7 @@ tbody.collapse.show {
     display: flex !important;
     -ms-flex-preferred-size: auto;
     flex-basis: auto;
+	  width: 140px;
   }
   .navbar-expand-sm .navbar-toggler {
     display: none;
@@ -4101,6 +4107,7 @@ tbody.collapse.show {
   .navbar-expand-sm .dropup .dropdown-menu {
     top: auto;
     bottom: 100%;
+	  width: 140px;
   }
 }
 
@@ -4130,6 +4137,7 @@ tbody.collapse.show {
   }
   .navbar-expand-md .navbar-nav .dropdown-menu {
     position: absolute;
+	  width: 140px;
   }
   .navbar-expand-md .navbar-nav .dropdown-menu-right {
     right: 0;
@@ -4157,6 +4165,7 @@ tbody.collapse.show {
   .navbar-expand-md .dropup .dropdown-menu {
     top: auto;
     bottom: 100%;
+	  width: 140px;
   }
 }
 
@@ -4268,7 +4277,7 @@ tbody.collapse.show {
   }
   .navbar-expand-xl .dropup .dropdown-menu {
     top: auto;
-    bottom: 100%;
+    bottom: 100%;width: 140px;
   }
 }
 
@@ -4297,6 +4306,7 @@ tbody.collapse.show {
 
 .navbar-expand .navbar-nav .dropdown-menu {
   position: absolute;
+	width: 140px;
 }
 
 .navbar-expand .navbar-nav .dropdown-menu-right {

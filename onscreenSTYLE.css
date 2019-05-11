@@ -6,11 +6,11 @@
     height: 480px;
     float: left;
     clear: right;
-    margin-top: 115px;
-    margin-left: 173px;
+    margin-top: 25%;
+    margin-left: 46%;
 }
 #holder {
-    width: 1012px;
+    width: 1020px;
     margin: 0 auto;
     height: 2100PX;
 }
@@ -20,28 +20,31 @@
     height: 618px;
     float: left;
     clear: right;
-    margin-left: -402px;
-    margin-top: 689px;
+    margin-left: 27%;
+    margin-top: 25%;
 }
 
 
 #kitch {
     width: 240px;
     height: 310px;
-    margin-left: 666px;
     float: left;
     clear: right;
-    margin-top: -1026px;
     background-color: #79B0B6;
+    margin-left: 40%;
+    margin-top: 25%;
 }
 #still {
     width: 350px;
     height: 467px;
     float: left;
     clear: right;
-    margin-left: 667px;
+    margin-left: 40
+$
+$;
     background-color: #E57A7C;
-    margin-top: -615px;
+    margin-top: 25%;
+    margin-left: 40%;
 }
 
 #nav {
@@ -57,7 +60,7 @@
 
 
 .dropbtn {
-	width:110px;
+	width:140px;
 	height: 20px;
   background-color: #9999bd;
   
@@ -72,7 +75,7 @@
   display: none;
   position: absolute;
   background-color: #FFFFFF;
-  min-width: 119px;
+  min-width: 100px;
   box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.1);
   z-index: 1;
 	font-family: 'Major Mono Display', sans-serif;
@@ -106,7 +109,7 @@
   display: none;
   position: absolute;
   background-color:#FFFFFF;
-  min-width: 119px;
+  min-width: 100px;
   box-shadow: 0px 4px 4px 0px rgba(0,0,0,0);
   z-index: 1;
 }
@@ -130,11 +133,9 @@
 #hoverdot {
     width: 80px;
     height: 78px;
-    float: left;
-    clear: right;
-    margin-left: 536px;
-    position: fixed;
-    margin-top: 13px;
+   position: fixed;
+	top: 13px;
+	left: 52.8%;
 }
 
 
@@ -144,8 +145,8 @@
     height: 394px;
     float: left;
     clear: right;
-    margin-top: 97px;
-    margin-left: 19px;
+    margin-left: 17%;
+    margin-top: 25%;
 }
 #JUN {
     width: 288px;
@@ -160,9 +161,9 @@
     height: 586px;
     float: left;
     clear: right;
-    margin-left: 667px;
     background-color: #9E9AB3;
-    margin-top: -545px;
+    margin-left: 40%;
+    margin-top: 25%;
 }
 #TAP {
     width: 600px;
@@ -177,3 +178,13 @@
 @media (min-width: 769px) and (max-width: 1200px){
 }
 
+#rightside {
+	width: 50%;
+	height: 2100px;
+	float: right;
+}
+#leftside {
+	width: 50%;
+	height: 2100px;
+	float: left;
+}

@@ -8,7 +8,7 @@
     clear: right;
     margin-top: 176px;
     background-color: #DBA9AA;
-    margin-left: 661px;
+    margin-left: 745px;
 }
 #holder {
     width: 1012px;
@@ -130,11 +130,9 @@
 #hoverdot {
     width: 80px;
     height: 78px;
-    float: left;
-    clear: right;
-    position: fixed;
-    margin-top: 13px;
-    margin-left: 536px;
+     position: fixed;
+	top: 13px;
+	left: 52.8%;
 }
 #EDD {
     background-color: #F45A5D;
