@@ -17,7 +17,7 @@
 #holdr {
     width: 1012px;
     height: 800px;
-    margin-left: auto;
+    margin-left: 39%;
     margin-right: auto;
 }
 #arrow {
@@ -36,11 +36,15 @@
 #dots {
     opacity: 1;
     animation: fadeIn 2s ease;
-    /*    margin-top: -357px;*/
-    margin-left: 35%;
     margin-top: 10px;
     width: 850px;
 }
+#holddots {
+    width: 850px;
+    margin-left: 0%;
+}
+
+
 @keyframes fadeIn{
   0%{
     opacity: 0;
@@ -230,7 +234,7 @@
     height: 78px;
     position: absolute;
     margin-top: 0.9%;
-    margin-left: 38%;
+    left: 52.8%;
 }
 
 #email {
@@ -249,9 +253,9 @@
     width: 125px;
     height: 119px;
     top: -10px;
-    position: fixed;
-    margin-left: 36.5%;
+    position: absolute;
     margin-top: 0.7%;
+    margin-left: 177px;
 }
 #holdruthlevy{
 	 width: 300px;
