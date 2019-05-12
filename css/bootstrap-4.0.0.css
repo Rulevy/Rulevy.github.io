@@ -3137,7 +3137,6 @@ tbody.collapse.show {
     position: relative;
     width: 100px;
     margin-left: 23.7%;
-    margin-top: -1px;
 }
 
 .dropdown-toggle::after {

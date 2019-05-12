@@ -51,11 +51,12 @@
 }
 
 #nav {
-    width: 850px;
+    width: 771px;
     height: 119px;
     float: left;
     margin-left: 54%;
     margin-top: -9px;
+    padding-left: 0px;
 }
 
 #bioo {
@@ -85,7 +86,7 @@
 #one {
     opacity: 0.7;
     animation: fadeIn 6s ease;
-    margin-left: 12%;
+    margin-left: 14%;
 }
 
 @keyframes fadeIn{
@@ -107,7 +108,7 @@
     opacity: 0.7;
     animation: fadeIn 8s ease;
     margin-top: -118px;
-    margin-left: 28%;
+    margin-left: 31%;
 }
 
 @keyframes fadeIn{
@@ -129,7 +130,7 @@
     opacity: 0.7;
     animation: fadeIn 10s ease;
     margin-top: -122px;
-    margin-left: 43%;
+    margin-left: 47%;
 }
 
 @keyframes fadeIn{
@@ -227,12 +228,9 @@
 #hoverdot {
     width: 80px;
     height: 78px;
-    position: absolute;/*    float: left;*//*    clear: right;*/
-    margin-left: 49%
-%
-%;/*    margin-left: 536px;*/
-    margin-left: 0%;
-    margin-top: 1.5%;
+    position: absolute;
+    margin-top: 0.9%;
+    margin-left: 38%;
 }
 
 #email {
@@ -252,8 +250,8 @@
     height: 119px;
     top: -10px;
     position: fixed;
-    margin-left: 543px;
-    margin-top: 9px;
+    margin-left: 37.8%;
+    margin-top: 0.7%;
 }
 #holdruthlevy{
 	 width: 300px;
