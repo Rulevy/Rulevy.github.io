@@ -37,7 +37,7 @@
     opacity: 1;
     animation: fadeIn 2s ease;
     /*    margin-top: -357px;*/
-    margin-left: 35.1%;
+    margin-left: 35%;
     margin-top: 10px;
     width: 850px;
 }
@@ -51,10 +51,10 @@
 }
 
 #nav {
-    width: 771px;
+    width: 300px;
     height: 119px;
     float: left;
-    margin-left: 54%;
+    margin-left: 63%;
     margin-top: -9px;
     padding-left: 0px;
 }
@@ -86,7 +86,7 @@
 #one {
     opacity: 0.7;
     animation: fadeIn 6s ease;
-    margin-left: 14%;
+    margin-left: 0%;
 }
 
 @keyframes fadeIn{
@@ -108,7 +108,7 @@
     opacity: 0.7;
     animation: fadeIn 8s ease;
     margin-top: -118px;
-    margin-left: 31%;
+    margin-left: 47%;
 }
 
 @keyframes fadeIn{
@@ -130,7 +130,7 @@
     opacity: 0.7;
     animation: fadeIn 10s ease;
     margin-top: -122px;
-    margin-left: 47%;
+    margin-left: 90%;
 }
 
 @keyframes fadeIn{
@@ -250,7 +250,7 @@
     height: 119px;
     top: -10px;
     position: fixed;
-    margin-left: 37.8%;
+    margin-left: 36.5%;
     margin-top: 0.7%;
 }
 #holdruthlevy{
