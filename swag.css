@@ -30,18 +30,20 @@
 #dots {
     width: 850px;
     height: 827px;
-	float:left;
 }
 
 #dots {
     opacity: 1;
     animation: fadeIn 2s ease;
-    margin-top: 10px;
     width: 850px;
+    margin-top: -73px;
+    left: 0px;
+    margin-left: -191px;
 }
 #holddots {
     width: 850px;
     margin-left: 0%;
+    height: 800px;
 }
 
 
@@ -57,10 +59,9 @@
 #nav {
     width: 300px;
     height: 119px;
-    float: left;
-    margin-left: 63%;
-    margin-top: -9px;
+    margin-left: 110%;
     padding-left: 0px;
+    margin-top: -97px;
 }
 
 #bioo {
@@ -233,8 +234,8 @@
     width: 80px;
     height: 78px;
     position: absolute;
-    margin-top: 0.9%;
     left: 52.8%;
+    top: 13px;
 }
 
 #email {
@@ -249,13 +250,17 @@
 
 @media (min-width: 380px) and (max-width: 1200px){
 }
+#holnav {
+    width: 500px;
+    height: 130px;
+    position: fixed;
+}
 #nofade {
-    width: 125px;
-    height: 119px;
-    top: -10px;
-    position: absolute;
-    margin-top: 0.7%;
-    margin-left: 177px;
+    width: 80px;
+    height: 78px;
+    position: fixed;
+    left: 52.8%;
+    top: 13px;
 }
 #holdruthlevy{
 	 width: 300px;
