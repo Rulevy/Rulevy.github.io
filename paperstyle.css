@@ -2,12 +2,12 @@
 /* CSS Document */
 
 #WB {
-    width: 500px;
-    height: 283px;
+    width: 350px;
+    height: 198px;
     float: left;
     clear: right;
     margin-top: 25%;
-    margin-left: 2%;
+    margin-left: -15px;
 }
 #holder {
     width: 1012px;
@@ -21,24 +21,31 @@
     float: left;
     clear: right;
     margin-top: 25%;
-    margin-left: 40%;
+    margin-right: 150px;
 }
-
+#irving {
+    width: 266px;
+    height: 368px;
+    float: left;
+    clear: right;
+    margin-top: 25%;
+    margin-left: 200px;
+}
 
 #kitch {
     width: 380px;
     height: 502px;
     float: left;
     clear: right;
-    margin-top: 25%;
-    margin-left: 26%;
+    margin-top: 35%;
+    margin-left: 105px;
 }
 #still {
     width: 380px;
     height: 497px;
     float: left;
     clear: right;
-    margin-top: 25%;
+    margin-top: 17%;
     margin-left: 40%;
 }
 
@@ -139,15 +146,15 @@
     float: left;
     clear: right;
     margin-left: 40%;
-    margin-top: 25%;
+    margin-top: 17%;
 }
 #JUN {
     width: 288px;
     height: 358px;
     float: left;
     clear: right;
-    margin-top: 25%;
-    margin-left: 45%;
+    margin-top: 17%;
+    margin-left: 200px;
 }
 
 #TAP {

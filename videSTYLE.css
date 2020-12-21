@@ -171,3 +171,35 @@
 
 @media (min-width: 769px) and (max-width: 1200px){
 }
+
+#leftside {
+	width: 50%;
+	height: 2100px;
+	float: left;
+}
+
+#rightside {
+	width: 50%;
+	height: 2100px;
+	float: right;
+}
+
+#BENCH
+{
+    width: 400px;
+    height: 440px;
+    float: left;
+    clear: right;
+    margin-top: 133px;
+    margin-left: 100px;
+}
+#garm
+{
+    width: 500px;
+    height: 530px;
+    float: left;
+    clear: right;
+    margin-top: 133px;
+    margin-left: 170px;
+}
+
